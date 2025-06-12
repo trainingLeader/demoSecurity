@@ -7,8 +7,15 @@ public class UnitOfWork : IUnitOfWork,IDisposable
    public UnitOfWork(ApiAuthDbContext context) 
    { 
        _context = context; 
-   } 
-   public void Dispose() 
+   }
+
+    public IRolRepository rolRepository => throw new NotImplementedException();
+
+    public IMemberRepository memberRepository => throw new NotImplementedException();
+
+    public IMemberRolRepository memberRolRepository => throw new NotImplementedException();
+
+    public void Dispose() 
    { 
        _context.Dispose(); 
    } 

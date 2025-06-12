@@ -1,0 +1,12 @@
+E:\Desarrollos\backend\demoSecurity\Domain\bin\Debug\net9.0\Domain.deps.json
+E:\Desarrollos\backend\demoSecurity\Domain\bin\Debug\net9.0\Domain.dll
+E:\Desarrollos\backend\demoSecurity\Domain\bin\Debug\net9.0\Domain.pdb
+E:\Desarrollos\backend\demoSecurity\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desarrollos\backend\demoSecurity\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+E:\Desarrollos\backend\demoSecurity\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+E:\Desarrollos\backend\demoSecurity\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+E:\Desarrollos\backend\demoSecurity\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+E:\Desarrollos\backend\demoSecurity\Domain\obj\Debug\net9.0\Domain.dll
+E:\Desarrollos\backend\demoSecurity\Domain\obj\Debug\net9.0\refint\Domain.dll
+E:\Desarrollos\backend\demoSecurity\Domain\obj\Debug\net9.0\Domain.pdb
+E:\Desarrollos\backend\demoSecurity\Domain\obj\Debug\net9.0\ref\Domain.dll
