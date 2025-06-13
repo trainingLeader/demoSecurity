@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Application.DTOs.Auth;
 
-public class AddRolDto
+public class AddRoleDto
 {
     [Required]
     public string? Username { get; set; }

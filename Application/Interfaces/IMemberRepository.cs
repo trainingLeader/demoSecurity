@@ -6,8 +6,8 @@ using Domain.Entities;
 
 namespace Application.Interfaces
 {
-    public interface IMemberRepository : IGenericRepository<Member>
+    public interface IMemberRepository : IGenericRepository<UserMember>
     {
-        
+        Task<UserMember> GetByUserNameAsync (string userName);
     }
 }

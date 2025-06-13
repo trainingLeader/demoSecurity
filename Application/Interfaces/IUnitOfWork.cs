@@ -1,7 +1,7 @@
 namespace Application.Interfaces; 
 public interface IUnitOfWork { 
-        IRolRepository rolRepository{ get; }
-        IMemberRepository memberRepository{ get; }
-        IMemberRolRepository memberRolRepository{ get; }
+        IRolRepository Role{ get; }
+        IMemberRepository UserMember{ get; }
+        IMemberRolRepository MemberRol{ get; }
         Task<int> SaveAsync(); 
 } 

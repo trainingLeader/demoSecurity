@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities
 {
-    public class Member : BaseEntity
+    public class UserMember : BaseEntity
     {
         public int Id { get; set; }
         public string? Name { get; set; }
@@ -13,6 +13,7 @@ namespace Domain.Entities
         public string? Username { get; set; }
         public string? Email { get; set; }
         public string? Password { get; set; }
+        public ICollection<Role> Roles { get; set;} = new HashSet<Role>();
         public ICollection<MemberRoles>? MemberRoles { get; set; } 
     }
 }
